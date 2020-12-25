@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "信息页面",
+  "enablePullDownRefresh": true,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {}
+}

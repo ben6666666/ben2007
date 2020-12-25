@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/list/list",
+    "pages/massage/massage",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "position": "top",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "",
+        "selectedIconPath": "",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/massage/massage",
+        "iconPath": "",
+        "selectedIconPath": "",
+        "text": "信息"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
